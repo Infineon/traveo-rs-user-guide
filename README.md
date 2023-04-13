@@ -1,5 +1,11 @@
-_Detailed setup instructions alongwith code examples and Peripheral Access Crates (PACs) **will be made available by CW16, 2023**._
+<img src="./media/ifx-logo-600.jpg" align="right" width="150" />  
 
-Please star/bookmark this repository for easy access later on.
+# Getting Started with Rust on TRAVEO™ T2G Devices
+This guide will help you get started with writing Rust for TRAVEO™ II devices. This is a set of live documents which will be updated with new content as needed. 
 
-In the meantime, for more information or any questions, please contact us via the [Infineon Developer Community & Support Forum](https://community.infineon.com/)
+# Table of Contents
+
+- [Setup Instructions](/setup-instructions/README.md)
+- [Usage Guide](/usage-guide/README.md)
+- [Code Examples](/code-examples/README.md)
+- [Frequently Asked Questions](/faqs/README.md)
