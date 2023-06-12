@@ -3,7 +3,7 @@ This page features an expanding collection of categorized code examples tailored
 
 For more information about using the starter kits, peripheral access crates and hardware connections, please refer to the [Usage Guide](../usage-guide/README.md).
 
-# TRAVEO II Body Entry Starter Kit ([CYTVII-B-E-1M-SK](https://www.infineon.com/cms/en/product/evaluation-boards/cytvii-b-e-1m-sk/))
+# TRAVEO™ II Body Entry Starter Kit ([CYTVII-B-E-1M-SK](https://www.infineon.com/cms/en/product/evaluation-boards/cytvii-b-e-1m-sk/))
 This section lists all the examples available for the TRAVEO II Body Entry Starter Kit ([CYTVII-B-E-1M-SK](https://www.infineon.com/cms/en/product/evaluation-boards/cytvii-b-e-1m-sk/))
 
 <img src="../media/traveo-ii-entryfamily-starterkit.jpg" width="500" />
