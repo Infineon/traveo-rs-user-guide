@@ -16,4 +16,4 @@ For more information and news about Rust for Infineon's MCUs, visit https://www.
 
 For any question, please feel free to ask the [Infineon Developer Community](https://community.infineon.com/).
 
-If you have any additional questions or find any problems with this user guide, please [open an issue](https://github.com/Infineon/traveo-rs-user-guide/issues) for this repository.
+If you have any additional questions or find any problems with this user guide, please [create an issue](https://github.com/Infineon/traveo-rs-user-guide/issues).
